@@ -1,0 +1,29 @@
+1. APK release building
+    a. flutter build apk --release
+    b. flutter build apk --release --no-sound-null-safety
+
+    urls:
+     https://stackoverflow.com/questions/50645703/how-to-get-apk-and-ipa-file-from-flutter
+
+
+2. Flutter run app
+    a. flutter run
+    b. flutter run --no-sound-null-safety
+
+3. null safety
+    urls:
+     https://stackoverflow.com/questions/64917744/cannot-run-with-sound-null-safety-because-dependencies-dont-support-null-safety
+
+
+flutter pub upgrade
+flutter pub get
+flutter clean
+flutter run
+
+
+flutter pub cache repair
+
+
+flutter build web
+ urls:
+  https://docs.flutter.dev/get-started/web
